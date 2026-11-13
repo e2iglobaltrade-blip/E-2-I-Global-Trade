@@ -1,0 +1,6 @@
+{
+  "name": "E 2 I Global Trade",
+  "description": "Ethiopian agricultural export brokerage connecting licensed exporters with verified global buyers under Level Up General Trading PLC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
